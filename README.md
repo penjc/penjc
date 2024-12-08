@@ -65,6 +65,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="JAVA" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python" />
+      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="PHP" />
     </kbd>
     <kbd>
       <kbd>Backend Technology Stack</kbd>
@@ -75,7 +76,7 @@
       <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" />
       <img width="30px" src="https://img.icons8.com/?size=100&id=zEO7WSnmwc9k&format=png&color=000000" alt="mybatis" title="MyBatis" />
       <img width="30px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" title="RabbitMQ" />
-      <img width="30px" src="https://github.com/alibaba/nacos/blob/develop/doc/Nacos_Logo.png" alt="naocs" title="Nacos" />
+      <!-- <img width="30px" src="https://github.com/alibaba/nacos/blob/develop/doc/Nacos_Logo.png" alt="naocs" title="Nacos" /> -->
     </kbd>
     <br>
     <br>
@@ -87,6 +88,7 @@
       <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="Webstorm" title="Webstorm" />
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/datagrip/datagrip-original.svg" alt="DataGrip" title="DataGrip" />
       <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" alt="maven" title="Maven" />
+      <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" title="Linux" />
       <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" title="Jupyter" />

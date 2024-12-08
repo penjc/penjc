@@ -95,8 +95,8 @@
   <summary>GitHub Stats</summary>
   <br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=dark" alt="Top Languages">
   </div>
 </details>
 <!-- <details>

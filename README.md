@@ -62,17 +62,20 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="cpp" title="JAVA" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="JAVA" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python" />
     </kbd>
     <kbd>
-      <kbd>Database, Cache & Queue</kbd>
+      <kbd>Backend Technology Stack</kbd>
       <br>
       <br>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" title="Redis" />
+      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring Boot" />
+      <img width="30px" src="https://avatars.githubusercontent.com/u/1483254?s=200&v=4" alt="mybatis" title="MyBatis" />
       <img width="30px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" title="RabbitMQ" />
+      <img width="30px" src="https://img.alicdn.com/imgextra/i4/O1CN01rW3vAB1FDWKSOiFf0_!!6000000000453-2-tps-204-40.png" alt="naocs" title="Nacos" />
     </kbd>
     <br>
     <br>

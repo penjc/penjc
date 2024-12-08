@@ -75,7 +75,7 @@
       <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" />
       <img width="30px" src="https://img.icons8.com/?size=100&id=zEO7WSnmwc9k&format=png&color=000000" alt="mybatis" title="MyBatis" />
       <img width="30px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" title="RabbitMQ" />
-      <img width="30px" src="https://github.com/alibaba/nacos/raw/develop/doc/Nacos_Logo.png" alt="naocs" title="Nacos" />
+      <img width="30px" src="https://github.com/alibaba/nacos/blob/develop/doc/Nacos_Logo.png" alt="naocs" title="Nacos" />
     </kbd>
     <br>
     <br>

@@ -35,13 +35,12 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Your Location.
- * @param {string} languages - English, Other Languages.
+ * @param {string} location - Hong Kong.
+ * @param {string} languages - English.
  * @param {string} jobTitle - JAVA Progammer.
- * @param {string} specialization - Building software systems and applications.
- * @param {string} interests - AI, Full-Stack Development, and problem-solving.
- * @param {string} hobbies - Gaming, Reading, Exploring Tech.
+ * @param {string} interests - AI, Full-Stack Development, and Game Development.
  * @param {string} education - City University of HONG KONG.
+ * @param {string} hobbies - Board game, Reading, Exploring Tech.
  * @param {string} approachable - Yes, feel free to reach out.
  * @param {string} strength - Determined.
  * @param {string} weakness - Overthinking.
@@ -95,10 +94,21 @@
 <details>
   <summary>GitHub Stats</summary>
   <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </p>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc" alt="Top Languages">
+  </div>
 </details>
+<!-- <details>
+  <summary>GitHub Stats</summary>
+  <br>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+    <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="GitHub Stats">
+  </p>
+</details> -->
 
 <!-- <details>
   <summary>Open Source Contributions</summary>

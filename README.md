@@ -108,7 +108,8 @@
   <summary>GitHub Stats</summary>
   <br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=highcontrast" alt="GitHub Stats">
+
+[//]: # (    <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=highcontrast&hide=contribs,issues&count_private=true&include_all_commits" alt="GitHub Stats">)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=highcontrast&hide=jupyter%20notebook,less" alt="Top Languages">
   </div>
 </details>

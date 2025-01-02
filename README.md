@@ -1,9 +1,12 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=penjc&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
+[//]: # (<p align = "center">)
+
+[//]: # (	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>)
+
+[//]: # (</p>)
 
 <div align="center">
 
@@ -106,8 +109,7 @@
   <br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=highcontrast" alt="GitHub Stats">
-
-[//]: # (    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=highcontrast" alt="Top Languages">)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=highcontrast&hide=jupyter%20notebook" alt="Top Languages">
   </div>
 </details>
 

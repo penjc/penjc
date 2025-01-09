@@ -38,12 +38,12 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Hong Kong.
- * @param {string} languages - English.
+ * @param {string} location - China.
+ * @param {string} languages - 中文, English, Français.
  * @param {string} jobTitle - JAVA Progammer.
  * @param {string} interests - AI, Full-Stack Development, and Game Development.
  * @param {string} education - City University of HONG KONG.
- * @param {string} hobbies - Board game, Reading, Exploring Tech.
+ * @param {string} hobbies - Reading, Exploring Tech, Board game.
  * @param {string} approachable - Yes, feel free to reach out.
  * @param {string} strength - Determined.
  * @param {string} weakness - Overthinking.

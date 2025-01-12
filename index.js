@@ -29,6 +29,12 @@ async function setWeatherInformation() {
         DATA.shanghai_weather_icon = `https://cdn.heweather.com/cond_icon/${r.now.icon}.png`; // 天气图标
         DATA.shanghai_wind_direction = r.now.windDir; // 风向
         DATA.shanghai_wind_speed = `${r.now.windSpeed} km/h`; // 风速
+        DATA.shanghai_humidity = `${r.now.humidity}%`; // 湿度
+        DATA.shanghai_pressure = `${r.now.pressure} hPa`; // 气压
+        DATA.shanghai_visibility = `${r.now.vis} km`; // 能见度
+        DATA.shanghai_precipitation = `${r.now.precip} mm`; // 降水量
+        DATA.shanghai_feels_like = `${r.now.feelsLike}°C`; // 体感温度
+        DATA.shanghai_cloud_cover = `${r.now.cloud}%`; // 云量
       })
 }
 

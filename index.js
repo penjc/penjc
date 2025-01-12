@@ -8,43 +8,39 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZoneName: 'short',
-    timeZone: 'Europe/Stockholm',
+    weekday: 'long',       // 显示完整的星期（如 "Monday" -> "Monday"）
+    month: 'long',         // 显示完整的月份（如 "January" -> "January")
+    day: 'numeric',        // 显示日期的数字部分
+    hour: 'numeric',       // 显示小时部分
+    minute: 'numeric',     // 显示分钟部分
+    timeZoneName: 'short', // 显示简短的时区信息
+    timeZone: 'Asia/Shanghai', // 设置时区为中国上海
   }),
 };
 
 async function setWeatherInformation() {
-  await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
-  )
-    .then(r => r.json())
-    .then(r => {
-      DATA.city_temperature = Math.round(r.main.temp);
-      DATA.city_weather = r.weather[0].description;
-      DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Europe/Stockholm',
-      });
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Europe/Stockholm',
-      });
-    });
-}
+  // 使用和风天气 API 获取上海的天气信息
+  const QWEATHER_API_KEY = process.env.QWEATHER_API_KEY; // 和风天气 API 密钥
+  const SHANGHAI_LOCATION = '101020100'; // 上海城市代码（和风天气）
 
-async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
-  DATA.img1 = instagramImages[0];
-  DATA.img2 = instagramImages[1];
-  DATA.img3 = instagramImages[2];
+  await fetch(
+    `https://devapi.qweather.com/v7/weather/now?location=${SHANGHAI_LOCATION}&key=${QWEATHER_API_KEY}`
+  )
+    .then((r) => r.json())
+    .then((r) => {
+      if (r.code === '200') {
+        DATA.shanghai_temperature = r.now.temp; // 当前温度
+        DATA.shanghai_weather = r.now.text; // 天气描述（如多云、晴天）
+        DATA.shanghai_weather_icon = `https://cdn.heweather.com/cond_icon/${r.now.icon}.png`; // 天气图标
+        DATA.shanghai_wind_direction = r.now.windDir; // 风向
+        DATA.shanghai_wind_speed = `${r.now.windSpeed} km/h`; // 风速
+      } else {
+        console.error('Failed to fetch Shanghai weather:', r);
+      }
+    })
+    .catch((error) => {
+      console.error('Error fetching Shanghai weather:', error);
+    });
 }
 
 async function generateReadMe() {
@@ -60,11 +56,6 @@ async function action() {
    * Fetch Weather
    */
   await setWeatherInformation();
-
-  /**
-   * Get pictures
-   */
-  await setInstagramPosts();
 
   /**
    * Generate README

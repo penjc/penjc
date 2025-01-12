@@ -23,24 +23,31 @@ async function setWeatherInformation() {
   const QWEATHER_API_KEY = process.env.QWEATHER_API_KEY; // 和风天气 API 密钥
   const SHANGHAI_LOCATION = '101020100'; // 上海城市代码（和风天气）
 
-  await fetch(
-    `https://devapi.qweather.com/v7/weather/now?location=${SHANGHAI_LOCATION}&key=${QWEATHER_API_KEY}`
-  )
-    .then((r) => r.json())
-    .then((r) => {
-      if (r.code === '200') {
-        DATA.shanghai_temperature = r.now.temp; // 当前温度
-        DATA.shanghai_weather = r.now.text; // 天气描述（如多云、晴天）
-        DATA.shanghai_weather_icon = `https://cdn.heweather.com/cond_icon/${r.now.icon}.png`; // 天气图标
-        DATA.shanghai_wind_direction = r.now.windDir; // 风向
-        DATA.shanghai_wind_speed = `${r.now.windSpeed} km/h`; // 风速
-      } else {
-        console.error('Failed to fetch Shanghai weather:', r);
+  try {
+    const response = await fetch(
+      `https://api.qweather.com/v7/weather/now?location=${SHANGHAI_LOCATION}`,
+      {
+        method: 'GET',
+        headers: {
+          Authorization: `Bearer ${QWEATHER_API_KEY}`,
+        },
       }
-    })
-    .catch((error) => {
-      console.error('Error fetching Shanghai weather:', error);
-    });
+    );
+
+    const r = await response.json();
+
+    if (r.code === '200') {
+      DATA.shanghai_temperature = r.now.temp; // 当前温度
+      DATA.shanghai_weather = r.now.text; // 天气描述（如多云、晴天）
+      DATA.shanghai_weather_icon = `https://cdn.heweather.com/cond_icon/${r.now.icon}.png`; // 天气图标
+      DATA.shanghai_wind_direction = r.now.windDir; // 风向
+      DATA.shanghai_wind_speed = `${r.now.windSpeed} km/h`; // 风速
+    } else {
+      console.error('Failed to fetch Shanghai weather:', r);
+    }
+  } catch (error) {
+    console.error('Error fetching Shanghai weather:', error);
+  }
 }
 
 async function generateReadMe() {

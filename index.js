@@ -51,10 +51,18 @@ async function setWeatherInformation() {
 }
 
 async function generateReadMe() {
-  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-    if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync('README.md', output);
+  await fs.readFile(MUSTACHE_MAIN_DIR, 'utf-8', (err, template) => {
+    if (err) {
+      console.error('Error reading main.mustache:', err);
+      throw err;
+    }
+
+    // 渲染模板
+    const output = Mustache.render(template, DATA);
+
+    // 写入 README.md
+    fs.writeFileSync('README.md', output, 'utf-8');
+    console.log('README.md generated successfully!');
   });
 }
 

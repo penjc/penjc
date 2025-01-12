@@ -24,7 +24,7 @@ async function setWeatherInformation() {
 
   try {
     const response = await fetch(
-      `https://devapi.qweather.com/v7/weather/now?location=101020100&key=QWEATHER_API_KEY`
+      `https://devapi.qweather.com/v7/weather/now?location=101020100&key=${process.env.QWEATHER_API_KEY}`
     );
 
     const r = await response.json();

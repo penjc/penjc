@@ -40,8 +40,14 @@ class PuppeteerService {
   }
 
   async close() {
-    await this.page.close();
-    await this.browser.close();
+    if (this.page) {
+      await this.page.close();
+      this.page = null; // 清空 page
+    }
+    if (this.browser) {
+      await this.browser.close();
+      this.browser = null; // 清空 browser
+    }
   }
 
   /**

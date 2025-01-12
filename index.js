@@ -49,20 +49,24 @@ async function generateReadMe() {
 }
 
 async function action() {
-  /**
-   * Fetch Weather
-   */
-  await setWeatherInformation();
+  try {
+    /**
+     * Fetch Weather
+     */
+    await setWeatherInformation();
 
-  /**
-   * Generate README
-   */
-  await generateReadMe();
-
-  /**
-   * Fermeture de la boutique 👋
-   */
-  await puppeteerService.close();
+    /**
+     * Generate README
+     */
+    await generateReadMe();
+  } catch (error) {
+    console.error('An error occurred during the action execution:', error);
+  } finally {
+    // 确保关闭 puppeteer
+    if (puppeteerService.browser || puppeteerService.page) {
+      await puppeteerService.close();
+    }
+  }
 }
 
 action();

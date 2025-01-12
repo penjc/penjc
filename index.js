@@ -25,13 +25,7 @@ async function setWeatherInformation() {
 
   try {
     const response = await fetch(
-      `https://api.qweather.com/v7/weather/now?location=${SHANGHAI_LOCATION}`,
-      {
-        method: 'GET',
-        headers: {
-          Authorization: `Bearer ${QWEATHER_API_KEY}`,
-        },
-      }
+      `https://devapi.qweather.com/v7/weather/now?location=${SHANGHAI_LOCATION}&key=${QWEATHER_API_KEY}`
     );
 
     const r = await response.json();

@@ -20,11 +20,11 @@ let DATA = {
 
 async function setWeatherInformation() {
   // 使用和风天气 API 获取上海的天气信息
-  const QWEATHER_API_KEY = env.QWEATHER_API_KEY; // 和风天气 API 密钥
+  const QWEATHER_API_KEY = process.env.QWEATHER_API_KEY; // 和风天气 API 密钥
 
   try {
     const response = await fetch(
-      `https://devapi.qweather.com/v7/weather/now?location=101010100&key=QWEATHER_API_KEY`
+      `https://devapi.qweather.com/v7/weather/now?location=101020100&key=QWEATHER_API_KEY`
     );
 
     const r = await response.json();

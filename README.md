@@ -80,7 +80,7 @@
 <ul align="center">
   <strong>Temperature:</strong> 5°C<br>
   <strong>Weather:</strong> 晴<br>
-  <strong>Wind:</strong> 东北风, 6 km&#x2F;h<br>
+  <strong>Wind:</strong> 南风, 3 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>

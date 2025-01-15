@@ -1,11 +1,9 @@
 name: README build
 
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 21 * * *'
 
 jobs:
   build:

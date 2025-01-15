@@ -2,7 +2,7 @@
   <img src="https://github.com/penjc/penjc/workflows/README%20build/badge.svg" />
   <img src="https://komarev.com/ghpvc/?username=penjc&style=plastic&color=blueviolet" />
 </p>
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</p>
 
 ---
 
@@ -80,7 +80,7 @@
 <ul align="center">
   <strong>Temperature:</strong> 3°C<br>
   <strong>Weather:</strong> 晴<br>
-  <strong>Wind:</strong> 北风, 1 km&#x2F;h<br>
+  <strong>Wind:</strong> 西北风, 1 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>

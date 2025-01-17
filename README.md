@@ -73,14 +73,14 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" width="400px" height="200px" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=highcontrast&hide=jupyter%20notebook,html" alt="Top Languages" width="400px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=highcontrast&hide=jupyter%20notebook,html,mdx,less,Mustache" alt="Top Languages" width="400px" height="200px" />
 </p>
 
 <h2 align="center">🏙 Welcome to <img src="assets/shanghai.svg" width="30" alt="Shanghai"/> Shanghai !</h2>
 <ul align="center">
-  <strong>Temperature:</strong> 3°C<br>
+  <strong>Temperature:</strong> 1°C<br>
   <strong>Weather:</strong> 晴<br>
-  <strong>Wind:</strong> 西北风, 1 km&#x2F;h<br>
+  <strong>Wind:</strong> 北风, 0 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>

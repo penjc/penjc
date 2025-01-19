@@ -72,10 +72,14 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-light-mode-only)
+  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-light-mode-only">
+<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only)-->
+<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-light-mode-only)-->
+<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
+<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" width="400px" height="200px" />-->
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=highcontrast&hide=jupyter%20notebook,scss,mdx,less,Mustache" alt="Top Languages" width="400px" height="200px" />-->
 </p>
@@ -84,7 +88,7 @@
 <ul align="center">
   <strong>Temperature:</strong> 5°C<br>
   <strong>Weather:</strong> 霾<br>
-  <strong>Wind:</strong> 南风, 1 km&#x2F;h<br>
+  <strong>Wind:</strong> 北风, 0 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>

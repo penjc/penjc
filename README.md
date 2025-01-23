@@ -86,9 +86,9 @@
 
 <h2 align="center">🏙 Welcome to <img src="assets/shanghai.svg" width="30" alt="Shanghai"/> Shanghai !</h2>
 <ul align="center">
-  <strong>Temperature:</strong> 11°C<br>
-  <strong>Weather:</strong> 雾<br>
-  <strong>Wind:</strong> 东北风, 1 km&#x2F;h<br>
+  <strong>Temperature:</strong> 13°C<br>
+  <strong>Weather:</strong> 阴<br>
+  <strong>Wind:</strong> 北风, 3 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>
@@ -107,11 +107,11 @@
   </a>
 </p>
 
-<p align="center">
-  If you like what I do, maybe consider buying me a coffee 👉👈
-</p>
-<p align="center">
-  <a href="https://buymeacoffee.com/penjc" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
-  </a>
-</p>
+<!--<p align="center">-->
+<!--  If you like what I do, maybe consider buying me a coffee 👉👈-->
+<!--</p>-->
+<!--<p align="center">-->
+<!--  <a href="https://buymeacoffee.com/penjc" target="_blank">-->
+<!--    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />-->
+<!--  </a>-->
+<!--</p>-->

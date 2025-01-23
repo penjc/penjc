@@ -54,11 +54,11 @@
   </thead>
   <tbody>
   <tr>
-    <td><a href="https://penjc.github.io/cityU-navigator/"><b>CityU Navigator</b></a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/penjc/cityU-navigator?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/penjc/cityU-navigator?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/penjc/cityU-navigator?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/penjc/cityU-navigator?style=flat-square&labelColor=343b41"/></td>
+    <td><a href="https://penjc.github.io/CityU/"><b>CityU 手册</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
   </tr>
   <tr>
     <td><a href="https://press.ocademy.cc/intro.html"><b>Machine Learning</b></a></td>
@@ -88,7 +88,7 @@
 <ul align="center">
   <strong>Temperature:</strong> 10°C<br>
   <strong>Weather:</strong> 阴<br>
-  <strong>Wind:</strong> 北风, 9 km&#x2F;h<br>
+  <strong>Wind:</strong> 北风, 4 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>

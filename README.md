@@ -86,9 +86,9 @@
 
 <h2 align="center">🏙 Welcome to <img src="assets/shanghai.svg" width="30" alt="Shanghai"/> Shanghai !</h2>
 <ul align="center">
-  <strong>Temperature:</strong> 8°C<br>
-  <strong>Weather:</strong> 阴<br>
-  <strong>Wind:</strong> 东南风, 2 km&#x2F;h<br>
+  <strong>Temperature:</strong> 3°C<br>
+  <strong>Weather:</strong> 多云<br>
+  <strong>Wind:</strong> 南风, 8 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>
@@ -102,7 +102,7 @@
 <!--  <a href="weixin://dl/chat?todo204" target="_blank">-->
 <!--    <img alt="WeChat" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />-->
 <!--  </a>-->
-  <a href="https://penjc.github.io/plog/" target="_blank">
+  <a href="https://penjc.github.io/" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>

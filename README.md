@@ -88,7 +88,7 @@
 <ul align="center">
   <strong>Temperature:</strong> 5°C<br>
   <strong>Weather:</strong> 雾<br>
-  <strong>Wind:</strong> 北风, 1 km&#x2F;h<br>
+  <strong>Wind:</strong> 北风, 5 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>

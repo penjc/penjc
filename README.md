@@ -54,7 +54,7 @@
   </thead>
   <tbody>
   <tr>
-    <td><a href="https://cityuhk.cn/"><b>CityU GuideBook</b></a></td>
+    <td><a href="https://penjc.github.io/CityU"><b>CityU GuideBook</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/penjc/CityU?style=flat-square&labelColor=343b41"/></td>

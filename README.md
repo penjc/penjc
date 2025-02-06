@@ -86,9 +86,9 @@
 
 <h2 align="center">🏙 Welcome to <img src="assets/shanghai.svg" width="30" alt="Shanghai"/> Shanghai !</h2>
 <ul align="center">
-  <strong>Temperature:</strong> 2°C<br>
+  <strong>Temperature:</strong> 4°C<br>
   <strong>Weather:</strong> 晴<br>
-  <strong>Wind:</strong> 北风, 0 km&#x2F;h<br>
+  <strong>Wind:</strong> 西风, 1 km&#x2F;h<br>
 </ul>
 
 <h2 align="center">🌟 Where to find me</h2>

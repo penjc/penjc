@@ -54,7 +54,7 @@
   </thead>
   <tbody>
   <tr>
-    <td><a href="https://penjc.github.io/CityU"><b>CityU GuideBook</b></a></td>
+    <td><a href="https://cityuhk.cn"><b>CityU GuideBook</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/penjc/CityU?style=flat-square&labelColor=343b41"/></td>
@@ -86,8 +86,8 @@
 
 <h2 align="center">🏙 Welcome to <img src="assets/shanghai.svg" width="30" alt="Shanghai"/> Shanghai !</h2>
 <ul align="center">
-  <strong>Temperature:</strong> 3°C<br>
-  <strong>Weather:</strong> 雾<br>
+  <strong>Temperature:</strong> 1°C<br>
+  <strong>Weather:</strong> 晴<br>
   <strong>Wind:</strong> 北风, 0 km&#x2F;h<br>
 </ul>
 

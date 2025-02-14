@@ -2,7 +2,7 @@ name: WakaTime Stats
 
 on:
   workflow_run:
-    workflows: [ "README build" ]
+    workflows: [ "README Build" ]
     types:
       - completed
   workflow_dispatch:

@@ -83,8 +83,8 @@
 <h2 >🏙 Welcome to <img src="https://gitee.com/penjc/assets/raw/master/img/penjc/shanghai.svg" width="30" alt=""/> Shanghai !</h2>
 <ul >
   <strong>Temperature:</strong> 8°C<br>
-  <strong>Weather:</strong> 中雨<br>
-  <strong>Wind:</strong> 北风, 3 km&#x2F;h<br>
+  <strong>Weather:</strong> 小雨<br>
+  <strong>Wind:</strong> 东风, 7 km&#x2F;h<br>
 </ul>
 
 <h2 >🌟 Where to find me</h2>

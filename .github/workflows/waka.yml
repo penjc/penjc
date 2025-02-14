@@ -25,3 +25,4 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_TIMEZONE: "False"

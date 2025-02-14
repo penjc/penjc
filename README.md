@@ -5,18 +5,18 @@
 
 ---
 
-<p align="center">
+<p >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=39&duration=3500&pause=300&color=3850F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
+<p >
   I'm Peng, a Java programmer from <img src="https://gitee.com/penjc/assets/raw/master/img/penjc/china.svg" width="20" alt=""/> <b>China</b>.
 </p>
 
-<h2 align="center">💻 My Coding Toolkit</h2>
-<p align="center">
+<h2 >💻 My Coding Toolkit</h2>
+<p >
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -37,9 +37,9 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-<h2 align="center">📂 Open Source Projects</h2>
-<table align="center">
-  <thead align="center">
+<h2 >📂 Open Source Projects</h2>
+<table >
+  <thead >
   <tr>
     <th>
       <img src="https://gitee.com/penjc/assets/raw/master/img/penjc/project.svg" alt="" width="20" height="20" style="vertical-align: middle;" />
@@ -69,34 +69,28 @@
   </tbody>
 </table>
 
-<h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
+<h2 >📊 My GitHub Stats</h2>
+<p >
   <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-light-mode-only">
-<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only)-->
-<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-light-mode-only)-->
-<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
-<!--  ![](https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=penjc&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" width="400px" height="200px" />-->
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penjc&layout=compact&theme=highcontrast&hide=jupyter%20notebook,scss,mdx,less,Mustache" alt="Top Languages" width="400px" height="200px" />-->
 </p>
 
-<h2 align="center">🏙 Welcome to <img src="https://gitee.com/penjc/assets/raw/master/img/penjc/shanghai.svg" width="30" alt=""/> Shanghai !</h2>
-<ul align="center">
-  <strong>Temperature:</strong> 4°C<br>
-  <strong>Weather:</strong> 阴<br>
-  <strong>Wind:</strong> 东北风, 1 km&#x2F;h<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h2 >🏙 Welcome to <img src="https://gitee.com/penjc/assets/raw/master/img/penjc/shanghai.svg" width="30" alt=""/> Shanghai !</h2>
+<ul >
+  <strong>Temperature:</strong> 8°C<br>
+  <strong>Weather:</strong> 中雨<br>
+  <strong>Wind:</strong> 北风, 3 km&#x2F;h<br>
 </ul>
 
-<h2 align="center">🌟 Where to find me</h2>
-<p align="center">
+<h2 >🌟 Where to find me</h2>
+<p >
   <a href="https://github.com/penjc" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:jcpeng3-c@my.cityu.edu.hk" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!--  <a href="weixin://dl/chat?todo204" target="_blank">-->
-<!--    <img alt="WeChat" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />-->
-<!--  </a>-->
   <a href="https://penjc.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 

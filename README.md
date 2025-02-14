@@ -79,87 +79,20 @@
 
 <h2 >My GitHub Stats</h2>
 <p >
-  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-light-mode-only">
+<!--  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only">-->
+<!--  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-light-mode-only">-->
   <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/languages.svg#gh-light-mode-only">
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 440.0 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-🌆 Daytime                799 commits         ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌃 Evening                1040 commits        █████████░░░░░░░░░░░░░░░░   36.06 % 
-🌙 Night                  733 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Tuesday                  395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Wednesday                438 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 418 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Saturday                 440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Sunday                   442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-Markdown                 5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-YAML                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-JavaScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-
-🔥 Editors: 
-WebStorm                 14 hrs 53 mins      ██████████████████░░░░░░░   71.90 % 
-IntelliJ IDEA            5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-
-💻 Operating System: 
-Mac                      20 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>
 <ul >
-  <strong>Temperature:</strong> 7°C<br>
-  <strong>Weather:</strong> 小雨<br>
-  <strong>Wind:</strong> 北风, 3 km&#x2F;h<br>
+  <strong>Temperature:</strong> 8°C<br>
+  <strong>Weather:</strong> 雾<br>
+  <strong>Wind:</strong> 北风, 0 km&#x2F;h<br>
 </ul>
 
 <h2 >Where to find me</h2>

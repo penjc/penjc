@@ -8,38 +8,56 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
-    weekday: 'long',       // 显示完整的星期（如 "Monday" -> "Monday"）
-    month: 'long',         // 显示完整的月份（如 "January" -> "January")
-    day: 'numeric',        // 显示日期的数字部分
-    hour: 'numeric',       // 显示小时部分
-    minute: 'numeric',     // 显示分钟部分
-    timeZoneName: 'short', // 显示简短的时区信息
-    timeZone: 'Asia/Shanghai', // 设置时区为中国上海
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'Asia/Shanghai',
   }),
 };
 
+// 使用 Google 翻译 API 翻译文本
+async function translateText(text, targetLang = 'en') {
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=zh-CN&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
+  try {
+    const response = await fetch(url);
+    const result = await response.json();
+    return result[0][0][0]; // 提取翻译后的文本
+  } catch (error) {
+    console.error('Error translating text:', error);
+    return text; // 如果翻译失败，返回原文本
+  }
+}
+
 async function setWeatherInformation() {
-  // 使用和风天气 API 获取上海的天气信息
+  try {
     const response = await fetch(
       `https://devapi.qweather.com/v7/weather/now?key=${process.env.QWEATHER_API_KEY}&location=101020100`
-    ).then(r=>r.json())
-      .then(r=>{
-        DATA.shanghai_temperature = r.now.temp; // 当前温度
-        DATA.shanghai_weather = r.now.text; // 天气描述（如多云、晴天）
-        DATA.shanghai_weather_icon = `https://cdn.heweather.com/cond_icon/${r.now.icon}.png`; // 天气图标
-        DATA.shanghai_wind_direction = r.now.windDir; // 风向
-        DATA.shanghai_wind_speed = `${r.now.windSpeed} km/h`; // 风速
-        DATA.shanghai_humidity = `${r.now.humidity}%`; // 湿度
-        DATA.shanghai_pressure = `${r.now.pressure} hPa`; // 气压
-        DATA.shanghai_visibility = `${r.now.vis} km`; // 能见度
-        DATA.shanghai_precipitation = `${r.now.precip} mm`; // 降水量
-        DATA.shanghai_feels_like = `${r.now.feelsLike}°C`; // 体感温度
-        DATA.shanghai_cloud_cover = `${r.now.cloud}%`; // 云量
-      })
+    );
+    const weatherData = await response.json();
+
+    const translatedWeather = await translateText(weatherData.now.text);
+
+    DATA.shanghai_temperature = weatherData.now.temp; // 当前温度
+    DATA.shanghai_weather = translatedWeather; // 翻译后的天气描述
+    DATA.shanghai_weather_icon = `https://cdn.heweather.com/cond_icon/${weatherData.now.icon}.png`; // 天气图标
+    DATA.shanghai_wind_direction = await translateText(weatherData.now.windDir); // 翻译后的风向
+    DATA.shanghai_wind_speed = `${weatherData.now.windSpeed} km/h`; // 风速
+    DATA.shanghai_humidity = `${weatherData.now.humidity}%`; // 湿度
+    DATA.shanghai_pressure = `${weatherData.now.pressure} hPa`; // 气压
+    DATA.shanghai_visibility = `${weatherData.now.vis} km`; // 能见度
+    DATA.shanghai_precipitation = `${weatherData.now.precip} mm`; // 降水量
+    DATA.shanghai_feels_like = `${weatherData.now.feelsLike}°C`; // 体感温度
+    DATA.shanghai_cloud_cover = `${weatherData.now.cloud}%`; // 云量
+  } catch (error) {
+    console.error('Error fetching weather information:', error);
+  }
 }
 
 async function generateReadMe() {
-  await fs.readFile(MUSTACHE_MAIN_DIR, 'utf-8', (err, template) => {
+  fs.readFile(MUSTACHE_MAIN_DIR, 'utf-8', (err, template) => {
     if (err) {
       console.error('Error reading main.mustache:', err);
       throw err;
@@ -56,19 +74,11 @@ async function generateReadMe() {
 
 async function action() {
   try {
-    /**
-     * Fetch Weather
-     */
     await setWeatherInformation();
-
-    /**
-     * Generate README
-     */
     await generateReadMe();
   } catch (error) {
     console.error('An error occurred during the action execution:', error);
   } finally {
-    // 确保关闭 puppeteer
     if (puppeteerService.browser || puppeteerService.page) {
       await puppeteerService.close();
     }

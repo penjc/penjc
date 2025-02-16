@@ -49,7 +49,7 @@ async function setWeatherInformation() {
     DATA.shanghai_pressure = `${weatherData.now.pressure} hPa`; // 气压
     DATA.shanghai_visibility = `${weatherData.now.vis} km`; // 能见度
     DATA.shanghai_precipitation = `${weatherData.now.precip} mm`; // 降水量
-    DATA.shanghai_feels_like = `${weatherData.now.feelsLike}°C`; // 体感温度
+    DATA.shanghai_feels_like = `${weatherData.now.feelsLike}`; // 体感温度
     DATA.shanghai_cloud_cover = `${weatherData.now.cloud}%`; // 云量
   } catch (error) {
     console.error('Error fetching weather information:', error);

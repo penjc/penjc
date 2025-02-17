@@ -86,6 +86,73 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 441.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 563 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+🌆 Daytime                825 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌃 Evening                1067 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌙 Night                  775 commits         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Wednesday                440 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Friday                   371 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Saturday                 470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Sunday                   456 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 10 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Java                     9 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+YAML                     3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+HTML                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Mustache                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+
+🔥 Editors: 
+WebStorm                 21 hrs 29 mins      █████████████████░░░░░░░░   67.11 % 
+IntelliJ IDEA            10 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   31.83 % 
+PyCharm                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+
+💻 Operating System: 
+Mac                      32 hrs 1 min        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>

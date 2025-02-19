@@ -86,87 +86,19 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 441.9 kB Used in GitHub's Storage 
- > 
-> 🏆 566 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-🌆 Daytime                825 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-🌃 Evening                1068 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌙 Night                  776 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Tuesday                  408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Wednesday                441 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Thursday                 426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Friday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Saturday                 470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Sunday                   456 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Markdown                 9 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-YAML                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-HTML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Mustache                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-
-🔥 Editors: 
-WebStorm                 19 hrs 57 mins      ████████████████░░░░░░░░░   64.60 % 
-IntelliJ IDEA            10 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   34.30 % 
-PyCharm                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-💻 Operating System: 
-Mac                      30 hrs 36 mins      █████████████████████████   99.10 % 
-Windows                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>
 <ul>
-  <strong>Temperature:</strong> 5°C<br>
-  <strong>Feels Like:</strong> 3°C<br>
-  <strong>Weather:</strong> partly cloudy<br>
-  <strong>Wind:</strong> West Wind, 3 km&#x2F;h<br>
-  <strong>Humidity:</strong> 75%<br>
-  <strong>Pressure:</strong> 1029 hPa<br>
-  <strong>Visibility:</strong> 16 km<br>
+  <strong>Temperature:</strong> 6°C<br>
+  <strong>Feels Like:</strong> 4°C<br>
+  <strong>Weather:</strong> Negative<br>
+  <strong>Wind:</strong> Dongfeng, 2 km&#x2F;h<br>
+  <strong>Humidity:</strong> 65%<br>
+  <strong>Pressure:</strong> 1030 hPa<br>
+  <strong>Visibility:</strong> 20 km<br>
   <strong>Precipitation:</strong> 0.0 mm<br>
-  <strong>Cloud Cover:</strong> 0%<br>
+  <strong>Cloud Cover:</strong> 91%<br>
 </ul>
 
 

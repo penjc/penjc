@@ -1,0 +1,33 @@
+name: Latest Blog
+
+on:
+  workflow_run:
+    workflows: [ "WakaTime Stats" ]
+    types:
+      - completed
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://blog.pengjiancheng.com/atom.xml"
+
+#      - name: Commit Changes
+#        run: |
+#          git config --local user.name "github-actions[bot]"
+#          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+#          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}
+#          git add README.md
+#          git commit -m "Update README with latest blog posts" || echo "No changes to commit"
+#          git push origin master -f
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

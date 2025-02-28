@@ -1,7 +1,8 @@
 <p>
 <!--  <img src="https://komarev.com/ghpvc/?username=penjc&style=plastic&color=blueviolet" />-->
-  <a href="https://github.com/penjc/penjc/actions/workflows/main.yaml"><img src="https://github.com/penjc/penjc/workflows/README%20Build/badge.svg" /></a>
+  <a href="https://github.com/penjc/penjc/actions/workflows/main.yml"><img src="https://github.com/penjc/penjc/workflows/README%20Build/badge.svg" /></a>
   <a href="https://github.com/penjc/penjc/actions/workflows/waka.yml"><img src="https://github.com/penjc/penjc/workflows/WakaTime%20Stats/badge.svg" /></a>
+  <a href="https://github.com/penjc/penjc/actions/workflows/blog.yml"><img src="https://github.com/penjc/penjc/workflows/Latest%20Blog/badge.svg" /></a>
 </p>
 
 ---
@@ -13,7 +14,7 @@
 </p>
 
 <p >
-  <img src="/assets/hi.gif" width="16px"> I'm Peng, a Java Programmer from <img src="/assets/china.svg" width="20" alt="" style="vertical-align: middle; margin-top: -3px;"/> <b>China</b>.
+  <img src="/assets/hi.gif" width="16px"> I'm Peng, a Back-end Developer from <img src="/assets/china.svg" width="20" alt="" style="vertical-align: middle; margin-top: -3px;"/> <b>China</b>.
 </p>
 
 <h2 >My Coding Toolkit</h2>
@@ -77,6 +78,11 @@
   </tbody>
 </table>
 
+<h2 >Latest Blog posts</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 >My GitHub Stats</h2>
 <p >
 <!--  <img src="https://raw.githubusercontent.com/penjc/github-stats/master/generated/overview.svg#gh-dark-mode-only">-->
@@ -86,86 +92,19 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 448.3 kB Used in GitHub's Storage 
- > 
-> 🏆 593 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌆 Daytime                837 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌃 Evening                1076 commits        █████████░░░░░░░░░░░░░░░░   35.48 % 
-🌙 Night                  796 commits         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Tuesday                  417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                447 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Thursday                 431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Friday                   374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Saturday                 482 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Sunday                   458 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     18 hrs 42 mins      █████████████████████░░░░   82.15 % 
-Markdown                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-
-🔥 Editors: 
-IntelliJ IDEA            19 hrs 29 mins      █████████████████████░░░░   85.65 % 
-WebStorm                 3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-
-💻 Operating System: 
-Mac                      21 hrs 54 mins      ████████████████████████░   96.20 % 
-Windows                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     12 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>
 <ul>
-  <strong>Temperature:</strong> 10°C<br>
-  <strong>Feels Like:</strong> 10°C<br>
+  <strong>Temperature:</strong> 14°C<br>
+  <strong>Feels Like:</strong> 13°C<br>
   <strong>Weather:</strong> fog<br>
-  <strong>Wind:</strong> Northeast wind, 1 km&#x2F;h<br>
-  <strong>Humidity:</strong> 97%<br>
+  <strong>Wind:</strong> West Wind, 12 km&#x2F;h<br>
+  <strong>Humidity:</strong> 91%<br>
   <strong>Pressure:</strong> 1017 hPa<br>
-  <strong>Visibility:</strong> 1 km<br>
+  <strong>Visibility:</strong> 5 km<br>
   <strong>Precipitation:</strong> 0.0 mm<br>
-  <strong>Cloud Cover:</strong> 10%<br>
+  <strong>Cloud Cover:</strong> 91%<br>
 </ul>
 
 

@@ -81,6 +81,11 @@
 <h2 >Latest Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring 源码解析：组件扫描](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/spring%E6%89%AB%E6%8F%8F/)
+- [优惠券模块核心逻辑](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/%E4%BC%98%E6%83%A0%E5%88%B8/%E4%BC%98%E6%83%A0%E5%88%B8%E6%A0%B8%E5%BF%83%E9%80%BB%E8%BE%91/)
+- [用户流量封控](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/shortlink/%E7%94%A8%E6%88%B7%E6%B5%81%E9%87%8F%E5%B0%81%E6%8E%A7/)
+- [短链接核心6：短链接监控](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/shortlink/%E7%9F%AD%E9%93%BE%E6%8E%A5%E6%A0%B8%E5%BF%836-%E7%9F%AD%E9%93%BE%E6%8E%A5%E7%9B%91%E6%8E%A7/)
+- [短链接核心5：短链接跳转](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/shortlink/%E7%9F%AD%E9%93%BE%E6%8E%A5%E6%A0%B8%E5%BF%835-%E7%9F%AD%E9%93%BE%E6%8E%A5%E8%B7%B3%E8%BD%AC/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 >My GitHub Stats</h2>

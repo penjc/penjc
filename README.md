@@ -81,6 +81,11 @@
 <h2 >Latest Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [人工智能：现代方法总结上](http://blog.pengjiancheng.com/study/ai/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD_%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%951/)
+- [Spring 源码解析：组件扫描](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/spring%E6%89%AB%E6%8F%8F/)
+- [优惠券模块核心逻辑](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/%E4%BC%98%E6%83%A0%E5%88%B8/%E4%BC%98%E6%83%A0%E5%88%B8%E6%A0%B8%E5%BF%83%E9%80%BB%E8%BE%91/)
+- [用户流量封控](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/shortlink/%E7%94%A8%E6%88%B7%E6%B5%81%E9%87%8F%E5%B0%81%E6%8E%A7/)
+- [短链接核心6：短链接监控](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/shortlink/%E7%9F%AD%E9%93%BE%E6%8E%A5%E6%A0%B8%E5%BF%836-%E7%9F%AD%E9%93%BE%E6%8E%A5%E7%9B%91%E6%8E%A7/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 >My GitHub Stats</h2>

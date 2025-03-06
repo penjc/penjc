@@ -81,11 +81,6 @@
 <h2 >Latest Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [人工智能：现代方法总结上](http://blog.pengjiancheng.com/study/ai/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD_%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%951/)
-- [Spring 源码解析：组件扫描](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/spring%E6%89%AB%E6%8F%8F/)
-- [优惠券模块核心逻辑](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/%E4%BC%98%E6%83%A0%E5%88%B8/%E4%BC%98%E6%83%A0%E5%88%B8%E6%A0%B8%E5%BF%83%E9%80%BB%E8%BE%91/)
-- [用户流量封控](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/shortlink/%E7%94%A8%E6%88%B7%E6%B5%81%E9%87%8F%E5%B0%81%E6%8E%A7/)
-- [短链接核心6：短链接监控](http://blog.pengjiancheng.com/tech/%E9%A1%B9%E7%9B%AE/shortlink/%E7%9F%AD%E9%93%BE%E6%8E%A5%E6%A0%B8%E5%BF%836-%E7%9F%AD%E9%93%BE%E6%8E%A5%E7%9B%91%E6%8E%A7/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 >My GitHub Stats</h2>
@@ -97,65 +92,19 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 449.9 kB Used in GitHub's Storage 
- > 
-> 🏆 610 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     3 hrs 57 mins       ████████████░░░░░░░░░░░░░   50.00 % 
-Markdown                 2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-YAML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-
-🔥 Editors: 
-IntelliJ IDEA            4 hrs 21 mins       ██████████████░░░░░░░░░░░   54.95 % 
-WebStorm                 3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.82 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-💻 Operating System: 
-Mac                      7 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     12 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>
 <ul>
-  <strong>Temperature:</strong> 6°C<br>
-  <strong>Feels Like:</strong> 4°C<br>
-  <strong>Weather:</strong> Negative<br>
-  <strong>Wind:</strong> Southwest wind, 3 km&#x2F;h<br>
-  <strong>Humidity:</strong> 73%<br>
-  <strong>Pressure:</strong> 1029 hPa<br>
-  <strong>Visibility:</strong> 23 km<br>
+  <strong>Temperature:</strong> 4°C<br>
+  <strong>Feels Like:</strong> 2°C<br>
+  <strong>Weather:</strong> clear<br>
+  <strong>Wind:</strong> North wind, 3 km&#x2F;h<br>
+  <strong>Humidity:</strong> 75%<br>
+  <strong>Pressure:</strong> 1030 hPa<br>
+  <strong>Visibility:</strong> 11 km<br>
   <strong>Precipitation:</strong> 0.0 mm<br>
-  <strong>Cloud Cover:</strong> 91%<br>
+  <strong>Cloud Cover:</strong> 0%<br>
 </ul>
 
 

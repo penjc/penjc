@@ -92,6 +92,52 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 450.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 646 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     4 hrs 40 mins       ████████████████░░░░░░░░░   64.35 % 
+Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Vue.js                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+
+🔥 Editors: 
+IntelliJ IDEA            6 hrs 39 mins       ███████████████████████░░   91.68 % 
+WebStorm                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+PyCharm                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+
+💻 Operating System: 
+Mac                      7 hrs 15 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>

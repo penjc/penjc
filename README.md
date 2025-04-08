@@ -81,11 +81,6 @@
 <h2 >Latest Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [面向对象手写 Spring IoC - Bean 的实例化与依赖注入](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%89%8B%E5%86%99SpringIoC%E5%88%9B%E5%BB%BA/)
-- [面向对象手写 Spring IoC - BeanDefinition 加载与解析](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%89%8B%E5%86%99SpringIoC%E5%8A%A0%E8%BD%BD/)
-- [手写 Spring IoC 模块设计](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E6%89%8B%E5%86%99SpringIoC%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1/)
-- [面向过程手写 Spring IoC](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B%E6%89%8B%E5%86%99SpringIoC/)
-- [人工智能：现代方法总结上](http://blog.pengjiancheng.com/study/ai/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD_%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%951/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 >My GitHub Stats</h2>
@@ -97,57 +92,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 450.6 kB Used in GitHub's Storage 
- > 
-> 🏆 647 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     11 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>
 <ul>
-  <strong>Temperature:</strong> 15°C<br>
-  <strong>Feels Like:</strong> 15°C<br>
-  <strong>Weather:</strong> clear<br>
-  <strong>Wind:</strong> North wind, 2 km&#x2F;h<br>
-  <strong>Humidity:</strong> 64%<br>
-  <strong>Pressure:</strong> 1015 hPa<br>
-  <strong>Visibility:</strong> 12 km<br>
+  <strong>Temperature:</strong> 17°C<br>
+  <strong>Feels Like:</strong> 18°C<br>
+  <strong>Weather:</strong> fog<br>
+  <strong>Wind:</strong> West Wind, 1 km&#x2F;h<br>
+  <strong>Humidity:</strong> 72%<br>
+  <strong>Pressure:</strong> 1011 hPa<br>
+  <strong>Visibility:</strong> 8 km<br>
   <strong>Precipitation:</strong> 0.0 mm<br>
   <strong>Cloud Cover:</strong> 0%<br>
 </ul>

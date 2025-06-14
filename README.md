@@ -1,8 +1,8 @@
 <p>
-  <!--  <img src="https://komarev.com/ghpvc/?username=penjc&style=plastic&color=blueviolet" />-->
-  <a href="https://github.com/penjc/penjc/actions/workflows/main.yml"><img src="https://github.com/penjc/penjc/workflows/README%20Build/badge.svg" /></a>
-  <a href="https://github.com/penjc/penjc/actions/workflows/waka.yml"><img src="https://github.com/penjc/penjc/workflows/WakaTime%20Stats/badge.svg" /></a>
-  <a href="https://github.com/penjc/penjc/actions/workflows/blog.yml"><img src="https://github.com/penjc/penjc/workflows/Latest%20Blog/badge.svg" /></a>
+  <img src="https://komarev.com/ghpvc/?username=penjc" />
+  <a href="https://github.com/penjc/penjc/actions/workflows/main.yml"><img src="https://img.shields.io/github/actions/workflow/status/penjc/penjc/main.yml?label=README%20Build" /></a>
+  <!--  <a href="https://github.com/penjc/penjc/actions/workflows/waka.yml"><img src="https://github.com/penjc/penjc/workflows/WakaTime%20Stats/badge.svg" /></a>-->
+  <!--  <a href="https://github.com/penjc/penjc/actions/workflows/blog.yml"><img src="https://github.com/penjc/penjc/workflows/Latest%20Blog/badge.svg" /></a>-->
 </p>
 
 ---
@@ -81,11 +81,6 @@
 <h2 >Latest Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [面向对象手写 Spring IoC - Bean 的实例化与依赖注入](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%89%8B%E5%86%99SpringIoC%E5%88%9B%E5%BB%BA/)
-- [面向对象手写 Spring IoC - BeanDefinition 加载与解析](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%89%8B%E5%86%99SpringIoC%E5%8A%A0%E8%BD%BD/)
-- [手写 Spring IoC 模块设计](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E6%89%8B%E5%86%99SpringIoC%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1/)
-- [面向过程手写 Spring IoC](http://blog.pengjiancheng.com/tech/%E6%A1%86%E6%9E%B6/spring/%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B%E6%89%8B%E5%86%99SpringIoC/)
-- [人工智能：现代方法总结上](http://blog.pengjiancheng.com/study/ai/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD_%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%951/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 >My GitHub Stats</h2>
@@ -97,62 +92,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 429.7 kB Used in GitHub's Storage 
- > 
-> 🏆 723 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     6 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.88 % 
-TypeScript               2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-YAML                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-SQL                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-
-🔥 Editors: 
-IntelliJ IDEA            14 hrs 56 mins      ███████████████████████░░   93.86 % 
-WebStorm                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-
-💻 Operating System: 
-Mac                      15 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <h2 >Welcome to <img src="/assets/shanghai.svg" width="30" alt="" style="vertical-align: middle;margin-top: -7px;" /> Shanghai !</h2>
 <ul>
   <strong>Temperature:</strong> 26°C<br>
   <strong>Feels Like:</strong> 30°C<br>
-  <strong>Weather:</strong> Negative<br>
-  <strong>Wind:</strong> West Wind, 3 km&#x2F;h<br>
+  <strong>Weather:</strong> Light rain<br>
+  <strong>Wind:</strong> Southeast wind, 1 km&#x2F;h<br>
   <strong>Humidity:</strong> 88%<br>
-  <strong>Pressure:</strong> 1004 hPa<br>
-  <strong>Visibility:</strong> 26 km<br>
+  <strong>Pressure:</strong> 1003 hPa<br>
+  <strong>Visibility:</strong> 25 km<br>
   <strong>Precipitation:</strong> 0.0 mm<br>
   <strong>Cloud Cover:</strong> 100%<br>
 </ul>

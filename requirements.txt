@@ -1,0 +1,6 @@
+requests
+parsel
+feedparser
+jinja2
+googletrans==4.0.0rc1
+

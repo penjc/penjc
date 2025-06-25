@@ -43,12 +43,12 @@
 
 ## 最新博客文章
 
-* <a href='https://pengjiancheng.com/blog/homepage/how-to-install-and-start' target='_blank'>项目教程</a> - 2025-06-20
-* <a href='https://pengjiancheng.com/blog/welcomeV2' target='_blank'>欢迎来到我的个人主页</a> - 2025-06-17
-* <a href='https://pengjiancheng.com/blog/welcome' target='_blank'>第一篇博客</a> - 2025-06-04
+* <a href='https://pengjiancheng.com/blog/tech/sign' target='_blank'>接口签名</a> - 2025-06-26
+* <a href='https://pengjiancheng.com/blog/homepage/how-to-install-and-start' target='_blank'>个人主页安装教程</a> - 2025-06-20
+* <a href='https://pengjiancheng.com/blog/homepage/welcome' target='_blank'>第一篇博客</a> - 2025-06-04
 
 <div align="center">
 
-*[由 GitHub Actions 于 UTC 2025-06-24 18:46:01 自动构建](build_readme.py)*
+*[由 GitHub Actions 于 UTC 2025-06-25 17:57:03 自动构建](build_readme.py)*
 
 </div>

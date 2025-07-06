@@ -43,12 +43,13 @@
 
 ## 最新博客文章
 
+* <a href='https://pengjiancheng.com/blog/tech/restful' target='_blank'>RESTful API 设计指南：企业级实践与最佳原则</a> - 2025-07-01
 * <a href='https://pengjiancheng.com/blog/tech/sign' target='_blank'>接口签名</a> - 2025-06-26
 * <a href='https://pengjiancheng.com/blog/homepage/how-to-install-and-start' target='_blank'>个人主页安装教程</a> - 2025-06-20
 * <a href='https://pengjiancheng.com/blog/homepage/welcome' target='_blank'>第一篇博客</a> - 2025-06-04
 
 <div align="center">
 
-*[由 GitHub Actions 于 UTC 2025-06-29 16:25:48 自动构建](build_readme.py)*
+*[由 GitHub Actions 于 UTC 2025-07-06 16:26:07 自动构建](build_readme.py)*
 
 </div>

@@ -51,6 +51,16 @@
 <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white" />
 </p>
 
+## 最近项目
+
+🔧 **[工具工坊](https://tool.pengjiancheng.com)** - 实用工具合集，提供各种便捷的在线工具
+
+🏠 **[主页模版](https://pengjiancheng.com)** - 现代化设计的个人主页模版
+
+📝 **[Git Genius](http://gitgenius.pengjiancheng.com/)** - 在线 .gitignore 生成网站，支持各种编程语言和框架
+
+🎓 **[CityU 手册](https://cityuhk.cn)** - 香港城市大学一站式课程信息和评价、校园生活攻略平台
+
 ## 最新博客
 
 * <a href='https://pengjiancheng.com/blog/tech/restful' target='_blank'>RESTful API 设计指南：企业级实践与最佳原则</a> - 2025-07-01
@@ -60,6 +70,6 @@
 
 <div align="center">
 
-*[由 GitHub Actions 于 UTC 2025-08-03 16:28:04 自动构建](build_readme.py)*
+*[由 GitHub Actions 于 UTC 2025-08-04 08:18:00 自动构建](build_readme.py)*
 
 </div>

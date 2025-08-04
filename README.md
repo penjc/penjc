@@ -51,6 +51,16 @@
 <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white" />
 </p>
 
+## Recent Projects
+
+🔧 **[Tool Forge](https://tool.pengjiancheng.com)** - A comprehensive collection of useful tools and utilities
+
+🏠 **[Homepage Template](https://pengjiancheng.com)** - Personal homepage template with modern design
+
+📝 **[Git Genius](http://gitgenius.pengjiancheng.com/)** - Online .gitignore generator for various programming languages and frameworks
+
+🎓 **[CityU Manual](https://cityuhk.cn)** - One-stop platform for City University of Hong Kong course information, reviews, and campus life guide
+
 ## Recent Blog Posts
 
 * <a href='https://pengjiancheng.com/blog/tech/restful' target='_blank'>RESTful API Design Guide: Enterprise-level Practice and Best Principles</a> - 2025-07-01
@@ -60,6 +70,6 @@
 
 <div align="center">
 
-*[Automated by GitHub Actions at UTC 2025-08-03 16:28:00](build_readme.py)*
+*[Automated by GitHub Actions at UTC 2025-08-04 08:17:56](build_readme.py)*
 
 </div>

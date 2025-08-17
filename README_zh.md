@@ -2,7 +2,7 @@
 
 ## 你好 👋，我是 **penjc**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=28&pause=800&color=58A6FF&vCenter=true&width=500&lines=Backend+Engineer;Java+%26+Go+Developer;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=28&pause=800&color=58A6FF&vCenter=true&width=500&lines=Backend+Engineer;Always+learning+new+things" alt="Typing SVG" />
 
 **📍 中国上海** • **👨‍💻 后端工程师**
 
@@ -70,6 +70,6 @@
 
 <div align="center">
 
-*[由 GitHub Actions 于 UTC 2025-08-10 16:27:10 自动构建](build_readme.py)*
+*[由 GitHub Actions 于 2025-08-17 21:58:03 自动构建](build_readme.py)*
 
 </div>

@@ -74,11 +74,11 @@ class Spider:
     def fetch_now(self, type):
         now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         if str(type).endswith("README.md"):
-            return "[Automated by GitHub Actions at UTC {}](build_readme.py)".format(
+            return "[Automated by GitHub Actions at {}](build_readme.py)".format(
                 now
             )
         elif str(type).endswith("README_zh.md"):
-            return "[由 GitHub Actions 于 UTC {} 自动构建](build_readme.py)".format(now)
+            return "[由 GitHub Actions 于 {} 自动构建](build_readme.py)".format(now)
 
     def main(self):
         for i in self.readme:

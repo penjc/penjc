@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm **penjc**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=28&pause=800&color=58A6FF&vCenter=true&width=500&lines=Backend+Engineer;Java+%26+Go+Developer;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=28&pause=800&color=58A6FF&vCenter=true&width=500&lines=Backend+Engineer;Always+learning+new+things" alt="Typing SVG" />
 
 **📍 Shanghai, China** • **👨‍💻 Backend Engineer**
 
@@ -70,6 +70,6 @@
 
 <div align="center">
 
-*[Automated by GitHub Actions at UTC 2025-08-10 16:27:05](build_readme.py)*
+*[Automated by GitHub Actions at 2025-08-17 21:57:59](build_readme.py)*
 
 </div>

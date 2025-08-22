@@ -53,6 +53,8 @@
 
 ## Recent Projects
 
+🔗 **[Short Link](https://link.pengjiancheng.com)** - A URL shortening service with analytics
+
 🔧 **[Tool Forge](https://tool.pengjiancheng.com)** - A comprehensive collection of useful tools and utilities
 
 🏠 **[Homepage Template](https://pengjiancheng.com)** - Personal homepage template with modern design
@@ -70,6 +72,6 @@
 
 <div align="center">
 
-*[Automated by GitHub Actions at 2025-08-17 14:02:34](build_readme.py)*
+*[Automated by GitHub Actions at 2025-08-22 16:42:13](build_readme.py)*
 
 </div>

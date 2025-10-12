@@ -65,13 +65,13 @@
 
 ## Recent Blog Posts
 
-* <a href='https://pengjiancheng.com/blog/tech/restful' target='_blank'>RESTful API Design Guide: Enterprise-level Practice and Best Principles</a> - 2025-07-01
+* <a href='https://pengjiancheng.com/blog/tech/restful' target='_blank'>RESTful API Design Guide: Enterprise-Grade Practices and Best Principles</a> - 2025-07-01
 * <a href='https://pengjiancheng.com/blog/tech/sign' target='_blank'>Interface signature</a> - 2025-06-26
 * <a href='https://pengjiancheng.com/blog/homepage/how-to-install-and-start' target='_blank'>Personal homepage installation tutorial</a> - 2025-06-20
 * <a href='https://pengjiancheng.com/blog/homepage/welcome' target='_blank'>First blog</a> - 2025-06-04
 
 <div align="center">
 
-*[Automated by GitHub Actions at 2025-10-05 01:20:40](build_readme.py)*
+*[Automated by GitHub Actions at 2025-10-12 01:17:48](build_readme.py)*
 
 </div>

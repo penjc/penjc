@@ -2,12 +2,12 @@
 
 ## 你好 👋，我是 **penjc**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=28&pause=800&color=58A6FF&vCenter=true&width=500&lines=Backend+Engineer;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=28&pause=800&color=58A6FF&vCenter=true&width=500&lines=Backend+RD;Always+learning+new+things" alt="Typing SVG" />
 
-**📍 中国上海** • **👨‍💻 后端工程师**
+**📍 中国上海** • **👨‍💻 后端研发**
 
 [![邮箱](https://img.shields.io/badge/邮箱-penjc204%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:penjc204@gmail.com)
-[![个人网站](https://img.shields.io/badge/网站-pengjiancheng.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://pengjiancheng.com)
+[![个人网站](https://img.shields.io/badge/网站-penjc.cn-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://penjc.cn)
 [![访问量](https://komarev.com/ghpvc/?username=penjc&style=flat-square&color=blue)](https://github.com/penjc)
 
 ## 技术栈
@@ -18,12 +18,13 @@
 <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white" />
 <img alt="Spring Cloud" src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?logo=spring&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" />
-<img alt="Gin" src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white" />
+<img alt="Gin" src="https://img.shields.io/badge/-Gin-00ADD8?logo=gin&logoColor=white" />
+<img alt="Kitex" src="https://img.shields.io/badge/-Kitex-00ADD8?logo=go&logoColor=white" />
+<img alt="Hertz" src="https://img.shields.io/badge/-Hertz-00ADD8?logo=go&logoColor=white" />
 </p>
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
@@ -53,8 +54,6 @@
 
 ## 最近项目
 
-🔗 **[云短链](https://link.pengjiancheng.com)** - 专业的短链接生成与数据分析平台
-
 🔧 **[工具工坊](https://tool.pengjiancheng.com)** - 实用工具合集，提供各种便捷的在线工具
 
 🏠 **[主页模版](https://pengjiancheng.com)** - 现代化设计的个人主页模版
@@ -65,13 +64,10 @@
 
 ## 最新博客
 
-* <a href='https://pengjiancheng.com/blog/tech/restful' target='_blank'>RESTful API 设计指南：企业级实践与最佳原则</a> - 2025-07-01
-* <a href='https://pengjiancheng.com/blog/tech/sign' target='_blank'>接口签名</a> - 2025-06-26
-* <a href='https://pengjiancheng.com/blog/homepage/how-to-install-and-start' target='_blank'>个人主页安装教程</a> - 2025-06-20
-* <a href='https://pengjiancheng.com/blog/homepage/welcome' target='_blank'>第一篇博客</a> - 2025-06-04
+* <a href='https://penjc.cn/blog/sign' target='_blank'>接口验签最佳实践</a> - 2025-06-26
 
 <div align="center">
 
-*[由 GitHub Actions 于 2025-11-23 01:38:19 自动构建](build_readme.py)*
+*[由 GitHub Actions 于 2025-11-23 20:31:36 自动构建](build_readme.py)*
 
 </div>

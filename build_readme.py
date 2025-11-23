@@ -34,7 +34,7 @@ class Spider:
             }
             
             # 先用requests获取内容
-            response = requests.get("https://pengjiancheng.com/rss.xml", headers=headers)
+            response = requests.get("https://penjc.cn/rss.xml", headers=headers)
             response.raise_for_status()
             
             feed = feedparser.parse(response.content)

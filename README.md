@@ -64,10 +64,14 @@
 
 ## Recent Blog Posts
 
-* <a href='https://penjc.cn/blog/sign' target='_blank'>Best practices for interface signature verification</a> - 2025-06-26
+* <a href='https://www.penjc.cn/posts/go-roadmap' target='_blank'>Go backend engineer’s path to becoming a god</a> - 2025-11-16
+* <a href='https://www.penjc.cn/posts/sign' target='_blank'>A Complete Guide to Interface Signature Verification</a> - 2025-06-16
+* <a href='https://www.penjc.cn/posts/thread-safe' target='_blank'>Thread safety issues</a> - 2025-03-03
+* <a href='https://www.penjc.cn/posts/threadLocal' target='_blank'>ThreadLocal detailed explanation</a> - 2025-02-23
+* <a href='https://www.penjc.cn/posts/java-concurrent' target='_blank'>Concurrent programming basics</a> - 2025-02-15
 
 <div align="center">
 
-*[Automated by GitHub Actions at 2025-11-23 12:33:05](build_readme.py)*
+*[Automated by GitHub Actions at 2025-11-30 13:31:08](build_readme.py)*
 
 </div>

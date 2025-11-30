@@ -64,10 +64,14 @@
 
 ## 最新博客
 
-* <a href='https://penjc.cn/blog/sign' target='_blank'>接口验签最佳实践</a> - 2025-06-26
+* <a href='https://www.penjc.cn/posts/go-roadmap' target='_blank'>Go 后端工程师成神之路</a> - 2025-11-16
+* <a href='https://www.penjc.cn/posts/sign' target='_blank'>接口签名验证完全指南</a> - 2025-06-16
+* <a href='https://www.penjc.cn/posts/thread-safe' target='_blank'>线程安全问题</a> - 2025-03-03
+* <a href='https://www.penjc.cn/posts/threadLocal' target='_blank'>ThreadLocal 详解</a> - 2025-02-23
+* <a href='https://www.penjc.cn/posts/java-concurrent' target='_blank'>并发编程基础</a> - 2025-02-15
 
 <div align="center">
 
-*[由 GitHub Actions 于 2025-11-23 12:33:06 自动构建](build_readme.py)*
+*[由 GitHub Actions 于 2025-11-30 13:31:11 自动构建](build_readme.py)*
 
 </div>

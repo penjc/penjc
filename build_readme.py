@@ -34,7 +34,7 @@ class Spider:
             }
             
             # 先用requests获取内容
-            response = requests.get("https://penjc.cn/rss.xml", headers=headers)
+            response = requests.get("https://www.penjc.cn/rss.xml", headers=headers)
             response.raise_for_status()
             
             feed = feedparser.parse(response.content)
@@ -58,17 +58,29 @@ class Spider:
                         print(f"翻译失败，使用原标题: {e}")
                         # 翻译失败时使用原标题
                 
+                # 处理发布时间
+                if "published_parsed" in entry and entry["published_parsed"]:
+                    published = time.strftime("%Y-%m-%d", entry["published_parsed"])
+                else:
+                    try:
+                        published = datetime.strptime(
+                            entry["published"], "%a, %d %b %Y %H:%M:%S %z"
+                        ).strftime("%Y-%m-%d")
+                    except ValueError:
+                        published = datetime.strptime(
+                            entry["published"], "%a, %d %b %Y %H:%M:%S %Z"
+                        ).strftime("%Y-%m-%d")
+
                 entry_str = "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
                     title=title,
                     url=entry["link"].split("#")[0],
-                    published=datetime.strptime(
-                        entry["published"], "%a, %d %b %Y %H:%M:%S %Z"
-                    ).strftime("%Y-%m-%d"),
+                    published=published,
                 )
                 entries.append(entry_str)
 
             return "\n".join(entries[:5])
         except Exception as e:
+            print(f"获取博客文章失败: {e}")
             return "博客获取失败" if language == "zh" else "Failed to fetch blog posts"
 
     def fetch_now(self, type):

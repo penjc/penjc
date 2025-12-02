@@ -64,7 +64,7 @@
 
 ## 最新博客
 
-* <a href='https://www.penjc.cn/posts/go-roadmap' target='_blank'>Go 后端工程师成神之路</a> - 2025-11-16
+* <a href='https://www.penjc.cn/posts/go-roadmap' target='_blank'>Go 后端工程师成神之路</a> - 2025-06-30
 * <a href='https://www.penjc.cn/posts/sign' target='_blank'>接口签名验证完全指南</a> - 2025-06-16
 * <a href='https://www.penjc.cn/posts/thread-safe' target='_blank'>线程安全问题</a> - 2025-03-03
 * <a href='https://www.penjc.cn/posts/threadLocal' target='_blank'>ThreadLocal 详解</a> - 2025-02-23
@@ -72,6 +72,6 @@
 
 <div align="center">
 
-*[由 GitHub Actions 于 2025-12-01 07:30:50 自动构建](build_readme.py)*
+*[由 GitHub Actions 于 2025-12-02 14:29:01 自动构建](build_readme.py)*
 
 </div>

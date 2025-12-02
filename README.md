@@ -64,7 +64,7 @@
 
 ## Recent Blog Posts
 
-* <a href='https://www.penjc.cn/posts/go-roadmap' target='_blank'>Go backend engineer’s path to becoming a god</a> - 2025-11-16
+* <a href='https://www.penjc.cn/posts/go-roadmap' target='_blank'>Go backend engineer’s path to becoming a god</a> - 2025-06-30
 * <a href='https://www.penjc.cn/posts/sign' target='_blank'>A Complete Guide to Interface Signature Verification</a> - 2025-06-16
 * <a href='https://www.penjc.cn/posts/thread-safe' target='_blank'>Thread safety issues</a> - 2025-03-03
 * <a href='https://www.penjc.cn/posts/threadLocal' target='_blank'>ThreadLocal detailed explanation</a> - 2025-02-23
@@ -72,6 +72,6 @@
 
 <div align="center">
 
-*[Automated by GitHub Actions at 2025-12-01 07:30:40](build_readme.py)*
+*[Automated by GitHub Actions at 2025-12-02 14:28:59](build_readme.py)*
 
 </div>
